@@ -19,7 +19,7 @@ Key analyses include:
 ---
 
 ## 📂 Project Files  
-📌 **covid_data_exploration.sql** – SQL script containing all queries  
+📌 **covid19_data_exploration.sql** – SQL script containing all queries  
 📌 **README.md** – You’re reading it!  
 
 ---
